@@ -3,7 +3,7 @@ queue provides an efficient implementation of a multi-producer, single-consumer 
 
 ## Reference
 
-MpscQueue: github.com/AsynkronIT/protoactor-go
+-  [MpscQueue] (github.com/AsynkronIT/protoactor-go)
 
 ## Interface
 
