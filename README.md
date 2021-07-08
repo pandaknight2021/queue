@@ -1,9 +1,17 @@
 # golang-queue
 queue provides an efficient implementation of a multi-producer, single-consumer lock-free queue
+mpsc base on list, RingQueue base on ring buffer
 
 ## Reference
 
 -  [MpscQueue: github.com/AsynkronIT/protoactor-go](https://github.com/AsynkronIT/protoactor-go)
+
+
+## 🧰 How to install
+
+``` powershell
+go get -u github.com/pandaknight2021/queue
+```
 
 ## Interface
 
