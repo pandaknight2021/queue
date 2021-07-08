@@ -1,4 +1,4 @@
-# golang-queue
+# mpsc-queue
 queue provides an efficient implementation of a multi-producer, single-consumer lock-free queue
 mpsc base on list, RingQueue base on ring buffer
 
