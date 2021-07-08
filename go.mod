@@ -1,4 +1,4 @@
-module github.com/Pandaknight2021/queue
+module github.com/pandaknight2021/queue
 
 go 1.15
 
